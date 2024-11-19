@@ -56,7 +56,7 @@ const members = [
     ]
   },
   {
-    avatar: './image/hjm.png',
+    avatar: './image/hjm.jpg',
     name: '胡家鸣',
     title: '博士生',
     links: [

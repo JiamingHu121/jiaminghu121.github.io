@@ -9,7 +9,7 @@ hero:
   text: '李文彬 博士'
   tagline: '材料模拟与设计实验室 PI'
   image:
-    src: /image/lwb.png
+    src: /image/lwb.jpg
     alt: PI
   actions:
     - theme: brand
