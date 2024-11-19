@@ -11,110 +11,56 @@ import {
 
 const members = [
   {
-    avatar: './image/kqy.png',
-    name: '康启越',
+    avatar: './image/hj.jpg',
+    name: '黄菊',
     title: '博士后',
     links: [
-      { icon: 'github', link: '' },
+      { icon: 'github', link: 'https://scholar.google.com/citations?hl=en&user=O4S9gP0AAAAJ' },
       { icon: 'twitter', link: '' }
     ]
   },
   {
-    avatar: './image/mlz.png',
-    name: '马俐智',
+    avatar: './image/dxy.jpg',
+    name: '董新月',
     title: '博士后',
     links: [
-      { icon: 'github', link: '' },
+      { icon: 'github', link: 'https://www.researchgate.net/profile/Xinyue-Dong-5' },
       { icon: 'twitter', link: '' }
     ]
   },
   {
-    avatar: './image/fyj.png',
-    name: '费玥姣',
+    avatar: './image/yjt.jpg',
+    name: '杨珺婷',
     title: '博士生',
     links: [
-      { icon: 'github', link: '' },
+      { icon: 'github', link: 'https://github.com/scilover' },
       { icon: 'twitter', link: '' }
     ]
   },
   {
-    avatar: './image/laq.png',
-    name: '李安琪',
+    avatar: './image/cxx.jpg',
+    name: '陈潇潇',
     title: '博士生',
     links: [
-      { icon: 'github', link: '' },
+      { icon: 'github', link: 'https://www.researchgate.net/profile/Xiaoxiao-Chen-26' },
       { icon: 'twitter', link: '' }
     ]
   },
   {
-    avatar: './image/qhc.png',
-    name: '丘华川',
+    avatar: './image/yyb.jpg',
+    name: '袁誉博',
     title: '博士生',
     links: [
-      { icon: 'github', link: 'https://github.com/qiuhuachuan' },
+      { icon: 'github', link: 'https://github.com/YuboYuanAAA' },
       { icon: 'twitter', link: '' }
     ]
   },
   {
-    avatar: './image/hhl.png',
-    name: '何洪良',
+    avatar: './image/hjm.png',
+    name: '胡家鸣',
     title: '博士生',
     links: [
-      { icon: 'github', link: '' },
-      { icon: 'twitter', link: '' }
-    ]
-  },
-  {
-    avatar: './image/zs.png',
-    name: '章帅',
-    title: '博士生',
-    links: [
-      { icon: 'github', link: '' },
-      { icon: 'twitter', link: '' }
-    ]
-  },
-  {
-    avatar: './image/yy.png',
-    name: '燕阳',
-    title: '博士生',
-    links: [
-      { icon: 'github', link: '' },
-      { icon: 'twitter', link: '' }
-    ]
-  },
-  {
-    avatar: './image/yj.png',
-    name: '俞佳',
-    title: '博士生',
-    links: [
-      { icon: 'github', link: '' },
-      { icon: 'twitter', link: '' }
-    ]
-  },
-  {
-    avatar: './image/zjl.png',
-    name: '张军磊',
-    title: '博士生',
-    links: [
-      { icon: 'github', link: '' },
-      { icon: 'twitter', link: '' }
-    ]
-  },
-  {
-    avatar: './image/zt.png',
-    name: '赵彤',
-    title: '科研助理',
-    links: [
-      { icon: 'github', link: '' },
-      { icon: 'twitter', link: '' }
-    ]
-  },
-  {
-    avatar: './image/hsy.png',
-    name: '何淑沅',
-    title: '科研助理',
-    links: [
-      { icon: 'github', link: '' },
+      { icon: 'github', link: 'https://scholar.google.com/citations?hl=en&user=syAjLw8AAAAJ&view_op=list_works&sortby=pubdate#' },
       { icon: 'twitter', link: '' }
     ]
   }

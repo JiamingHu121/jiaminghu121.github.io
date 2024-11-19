@@ -2,14 +2,14 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-title: Deep Learning Lab
+title: Materials Simulation and Design Lab
 
 hero:
-  name: 'Deep Learning Lab'
-  text: '蓝振忠 博士'
-  tagline: '西湖大学深度学习实验室 PI'
+  name: 'MSD Lab'
+  text: '李文彬 博士'
+  tagline: '材料模拟与设计实验室 PI'
   image:
-    src: /image/lzz.png
+    src: /image/lwb.png
     alt: PI
   actions:
     - theme: brand
@@ -17,11 +17,11 @@ hero:
       link: /research
     - theme: alt
       text: Google Scholar
-      link: 'https://scholar.google.com/citations?user=tlDABkgAAAAJ&hl=en&oi=ao'
+      link: 'https://scholar.google.com/citations?user=rZ7mgIUAAAAJ&hl=en'
 
 features:
   - title: 导师简介
-    details: 蓝振忠 工学院助理教授/博士生导师，深度学习实验室PI，是NLP自然语言处理领域预训练语言模型“ALBERT”第一作者，“ALBERT”被誉为全世界最好的语言理解模型之一；蓝振忠博士长期致力于研究自然语言处理，计算机视觉及深度学习的结合与应用。此前在谷歌AI研究所工作，研发成果被应用于谷歌新闻、谷歌助手等多个拥有亿级以上用户的产品；2020年受聘于西湖大学，创办深度学习实验室并担任博士生导师，而后迅速带领团队研发出了AI心理咨询师“小天”、智能写作平台FRIDAY以及AI绘画产品“造梦日记”；2021年被麻省理工大学评选为亚太地区“35岁以下科技创新35人”之一。联系邮箱：lanzhenzhong@westlake.edu.cn。
+    details: 李文彬，2008年本科毕业于浙江大学材料科学与工程学系；2011年获美国宾夕法尼亚大学材料科学与工程硕士学位；2015获美国麻省理工学院材料科学与工程博士学位。2015年至2017年在麻省理工学院Research Laboratory of Electronics从事博士后研究。2017年至2019年在欧盟玛丽·居里学者计划的资助下，在英国牛津大学工作。2019年10月全职加入西湖大学工学院，负责材料模拟与设计实验室。联系邮箱：liwenbin@westlake.edu.cn。
   - title: 研究方向
-    details: 实验室的主要研究方向是多模态（语言、声音、图像）大模型的原理及其应用。在理论方面，实验室主要研究 Transformer、Diffusion、预训练等模型框架和训练方法，旨在将人工智能推向更加通用化的方向。在应用方面，实验室主要研究大模型在对话（类ChatGPT）、心理咨询和图片生成等领域的应用，借此成立了西湖心辰（杭州）科技有限公司。自2020年成立以来，实验室和公司取得了一系列的研究成果，其中包括第一个在写作方面跟GPT-3.5持平的大模型RIO，第一个以大模型为基础的心理咨询对话系统小天，以及国际领先的服装设计大模型Fashion Diffusion等等，这些技术已服务超过百万用户。
+    details: 李文彬博士主要致力于先进半导体材料和复杂电子材料中的电声子相互作用、电学输运性质，以及物态调控研究，同时还开展软物质自组装材料分子模拟与机器学习辅助设计的相关研究。实验室致力于运用第一性原理计算、材料与物理理论、多尺度模拟，以及机器学习等手段，在基本物理层面实现对材料性能及其变化规律的深入理解，并结合物理规律、数据科学和人工智能来预测和筛选新材料，以期实现新型功能材料的加速研发。李文彬博士已在Nature Reviews Materials, Nature Communications, J. Am. Chem. Soc., Advanced Materials, npj Computational Materials等杂志上以通讯作者身份发表多篇学术论文。曾获欧盟Marie Skłodowska-Curie Individual Fellowship，牛津大学Wolfson学院Junior Research Fellowship, 并作为团队成员获2016年美国R&D 100 Award。
 ---
