@@ -21,7 +21,7 @@ const members = [
   },
   {
     avatar: './image/dxy.jpg',
-    name: '董新月',
+    name: '董欣月',
     title: '博士后',
     links: [
       { icon: 'github', link: 'https://www.researchgate.net/profile/Xinyue-Dong-5' },

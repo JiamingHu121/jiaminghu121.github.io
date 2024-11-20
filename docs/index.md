@@ -2,10 +2,10 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-title: Materials Simulation and Design Lab
+title: Materials Modeling and Design Lab
 
 hero:
-  name: 'MSD Lab'
+  name: 'MMD Lab'
   text: '李文彬 博士'
   tagline: '材料模拟与设计实验室 PI'
   image:
