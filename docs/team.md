@@ -11,6 +11,15 @@ import {
 
 const members = [
   {
+    avatar: './image/lwb.jpg',
+    name: '李文彬',
+    title: 'PI',
+    links: [
+      { icon: 'github', link: 'https://scholar.google.com/citations?user=rZ7mgIUAAAAJ&hl=en' },
+      { icon: 'twitter', link: 'liwenbin@westlake.edu.cn' }
+    ]
+  },
+  {
     avatar: './image/hj.jpg',
     name: '黄菊',
     title: '博士后',
@@ -61,7 +70,7 @@ const members = [
     title: '博士生',
     links: [
       { icon: 'github', link: 'https://scholar.google.com/citations?hl=en&user=syAjLw8AAAAJ&view_op=list_works&sortby=pubdate#' },
-      { icon: 'twitter', link: '' }
+      { icon: 'twitter', link: 'hujiaming@westlake.edu.cn' }
     ]
   }
 ]

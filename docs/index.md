@@ -5,19 +5,19 @@ layout: home
 title: Materials Modeling and Design Lab
 
 hero:
-  name: 'MMD Lab'
-  text: '李文彬 博士'
-  tagline: '材料模拟与设计实验室 PI'
+  name: '材料模拟与设计实验室'
+  text: 'Materials Modeling and Design Lab'
+  tagline: ' MMD Lab'
   image:
-    src: /image/lwb.jpg
+    src: /image/group.jpg
     alt: PI
   actions:
     - theme: brand
       text: Research
       link: /research
     - theme: alt
-      text: Google Scholar
-      link: 'https://scholar.google.com/citations?user=rZ7mgIUAAAAJ&hl=en'
+      text: Contact
+      link: /contact
 
 features:
   - title: 导师简介
